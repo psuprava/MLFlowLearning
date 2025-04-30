@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suprava/Documents/MLFlow/mlruns/0/a578e6587a8a48ce9a15d9d1580daaaa/artifacts
+end_time: 1745994337835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a578e6587a8a48ce9a15d9d1580daaaa
+run_name: lyrical-ox-603
+run_uuid: a578e6587a8a48ce9a15d9d1580daaaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745994337754
+status: 4
+tags: []
+user_id: Suprava

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Suprava/Documents/MLFlow/mlruns/0/62d02cb9c4b248e6860522fbfe070d86/artifacts
+deleted_time: 1745990507568
+end_time: 1745949354844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 62d02cb9c4b248e6860522fbfe070d86
+run_name: hilarious-goat-909
+run_uuid: 62d02cb9c4b248e6860522fbfe070d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745949351691
+status: 4
+tags: []
+user_id: Suprava

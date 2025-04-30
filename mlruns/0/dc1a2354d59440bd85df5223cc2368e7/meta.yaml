@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suprava/Documents/MLFlow/mlruns/0/dc1a2354d59440bd85df5223cc2368e7/artifacts
+end_time: 1745994443247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc1a2354d59440bd85df5223cc2368e7
+run_name: hilarious-fawn-760
+run_uuid: dc1a2354d59440bd85df5223cc2368e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745994443167
+status: 4
+tags: []
+user_id: Suprava

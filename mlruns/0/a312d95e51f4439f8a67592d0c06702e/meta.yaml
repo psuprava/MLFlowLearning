@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Suprava/Documents/MLFlow/mlruns/0/a312d95e51f4439f8a67592d0c06702e/artifacts
+deleted_time: 1745990507567
+end_time: 1745949894371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a312d95e51f4439f8a67592d0c06702e
+run_name: exultant-conch-509
+run_uuid: a312d95e51f4439f8a67592d0c06702e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745949891390
+status: 4
+tags: []
+user_id: Suprava

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suprava/Documents/MLFlow/mlruns/0/42ececbefb9c4bd1a0ff826e7227eee1/artifacts
+end_time: 1745994597315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42ececbefb9c4bd1a0ff826e7227eee1
+run_name: flawless-sow-531
+run_uuid: 42ececbefb9c4bd1a0ff826e7227eee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745994597246
+status: 4
+tags: []
+user_id: Suprava

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Suprava/Documents/MLFlow/mlruns/0/0884fcd95e4045d0905b969e269ccb95/artifacts
+deleted_time: 1745990507569
+end_time: 1745949439825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0884fcd95e4045d0905b969e269ccb95
+run_name: welcoming-bird-87
+run_uuid: 0884fcd95e4045d0905b969e269ccb95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745949436890
+status: 4
+tags: []
+user_id: Suprava

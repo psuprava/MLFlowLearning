@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suprava/Documents/MLFlow/mlruns/0/0fa0ce62552045b4ab19110795e41ade/artifacts
+end_time: 1745990448137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fa0ce62552045b4ab19110795e41ade
+run_name: kindly-gnat-67
+run_uuid: 0fa0ce62552045b4ab19110795e41ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745990448066
+status: 4
+tags: []
+user_id: Suprava
